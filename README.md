@@ -23,7 +23,7 @@ Extensão de Chrome para ver os canais em que você está inscrito, achar os que
 ## O que mais tem
 
 - **Filtros:** por data do último vídeo, por busca e por canais que falam de IA.
-- **Ler meu histórico:** mostra os canais que você assistiu ultimamente. Correção recente, ainda em teste.
+- **Ler meu histórico:** mostra os canais que você assistiu ultimamente.
 - **Exportar e backups:** guarda sua lista e suas marcações.
 
 Nesta versão não há assuntos prontos: todos os canais aparecem em **Outros**.
